@@ -8,7 +8,7 @@
 * 保存数据，csv格式
 
 # GetGraphData
-This is a simple program for extracting data points from charts in literature. The program is written in Python.
+This is a simple program for extracting data points from line graphs in literature. The program is written in Python.
 # Usage Instructions
 * Take a screenshot of the chart in the literature.
 * Import the image.
